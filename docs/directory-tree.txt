@@ -1,0 +1,44 @@
+social-commerce-platform/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── research/
+│   └── README.md
+├── competitor-analysis/
+│   └── README.md
+├── customer-interviews/
+│   └── README.md
+├── product/
+│   └── README.md
+├── architecture/
+├── design/
+├── development-planning/
+├── branding/
+├── meeting-notes/
+├── assets/
+├── backend/
+├── frontend/
+├── infrastructure/
+├── scripts/
+├── docs/
+│   ├── vision.md
+│   ├── mission.md
+│   ├── prd.md
+│   ├── mvp-definition.md
+│   ├── user-personas.md
+│   ├── user-stories.md
+│   ├── market-research.md
+│   ├── feature-ideas.md
+│   ├── feature-backlog.md
+│   ├── product-roadmap.md
+│   ├── pricing-ideas.md
+│   ├── business-model.md
+│   ├── risk-analysis.md
+│   ├── technical-decisions.md
+│   ├── api-planning.md
+│   ├── database-design.md
+│   ├── system-architecture.md
+│   ├── deployment-plan.md
+│   ├── launch-checklist.md
+│   ├── github-project-organization.md
+│   └── repository-maintenance.md
